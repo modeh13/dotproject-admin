@@ -1,0 +1,7 @@
+*.docx
+*.class
+
+/DotProjectAdmin/target/*.jar
+*.netbeans_automatic_build
+Mayasoft/DotProjectAdmin/target/
+/Mayasoft/DotProjectAdmin/nbproject/
